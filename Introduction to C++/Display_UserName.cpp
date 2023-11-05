@@ -11,5 +11,5 @@ int main(){
     cout << "Hello what is your name ?";
     cin >> str;
     cout << "Hello , " <<str << " Nice to meet you!" << endl;
-    return (0)
+    return (0);
 }
